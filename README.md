@@ -20,7 +20,7 @@ To build the application, follow these steps:
 2. Navigate to the directory where you cloned the repository.
 
     ```
-    cd hello-world
+    cd HelloWorld
     ```
 
 3. Create a new directory for the build and navigate to it.
